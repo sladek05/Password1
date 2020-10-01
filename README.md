@@ -1,1 +1,1 @@
-Password1
+Toto je projekt Password1*
