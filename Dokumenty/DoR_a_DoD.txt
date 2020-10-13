@@ -1,23 +1,44 @@
 Definintion of Ready 
-	- Sprint 0
-	  - Teorie, osvojení
-	  - ScrumDesk, seznámení
-	  - GitHub, seznámení
-	  - Projektový plán
-	  - Platforma výběr
-	  - Platforma realizace
-	  - GitHub aktulizace
-	  - Obchodní model ve formátu Canvas
-	  - Úvodní komunikace se zákazníkem
-	- Sprint 1
-	  - Integrace, validace a zajištění kvality prop User Stories pro Relese 1
-	  - Seznámení s posudky
-	  - ScrumDesk, aktulizace
-	  - GitHub, aktulizace
-	  - Průbežná komuinkace se zákazníkem
-	  - Nabídnutí článků
-	  - Seznámení s posudky
+	- Realase 1
+		- Sprint 0
+			 - Teorie, osvojení
+			 - ScrumDesk, seznámení
+			 - GitHub, seznámení
+			 - Projektový plán
+			 - Platforma výběr
+			 - Platforma realizace
+			 - GitHub aktulizace
+			 - Obchodní model ve formátu Canvas
+			 - Úvodní komunikace se zákazníkem
+		- Sprint 1
+			 - ScrumDesk, aktulizace
+			 - GitHub, aktulizace
+			 - Průbežná komuinkace se zákazníkem
+			 - Integrace, validace a zajištění kvality prop User Stories pro Relese 1
+			 - Seznámení s posudky
+			 - Nabídnutí článků
+			 - Seznámení s posudky
+			 - Přijetí, článků
+			 - Vrácení článků autorovi
+			 - Komunikace s recenzenty
+			 - Schválení drobných změn
+			 - Zveřejnění článků
+			 - Vytovření recenzního posudku
+			 - Převzetí článku
+	- Realase 2
+		- Sprint 2
+			 - Archivace článků
+			 - Integrace, validace a zajištění kvality prop User Stories pro Relese 2
+			 - Hodnocené přiděleného týmu
+			 - Hodnocení vlastního týmu
+			 - Zpracování recenzních komentářů
+			 - Připomínky a dotazy k aplikaci (Tickets)
+			 - Správa aplikace
+			 - Monitorování všech aktivit
+			 - Vyjádření ke sporným případům
+			 - Vyjádření k zásadním změnám
 Definintion of Done
-	- Sprint 0
-	  - Tým vytvoření
-	  - Úvodní validace úkolů
+	- Realase 1
+		- Sprint 0
+			- Tým vytvoření
+			- Úvodní validace úkolů
