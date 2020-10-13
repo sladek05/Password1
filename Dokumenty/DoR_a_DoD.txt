@@ -25,6 +25,8 @@ Definintion of Ready
 			 - Zveřejnění článků
 			 - Vytovření recenzního posudku
 			 - Převzetí článku
+			 - Získání informace o časopisu
+			 - Volná přístup k obsahu časopisu
 	- Realase 2
 		- Sprint 2
 			 - Archivace článků
