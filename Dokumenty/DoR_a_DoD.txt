@@ -1,3 +1,16 @@
 Definintion of Ready 
- - Sprint 0
-  -
+	- Sprint 0
+	  - Teorie, osvojení
+	  - ScrumDesk, seznámení
+	  - GitHub, seznámení
+	  - Projektový plán
+	  - Platforma výběr
+	  - Platforma realizace
+	  - GitHub aktulizace
+	  - Obchodní model ve formátu Canvas
+	- Sprint 1
+	  - Integrace, validace a zajištění kvality prop User Stories pro Relese 1
+	  - Seznámení s posudky
+Definintion of Done
+	- Sprint 0
+		- Tým vytvoření
