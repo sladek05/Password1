@@ -8,9 +8,16 @@ Definintion of Ready
 	  - Platforma realizace
 	  - GitHub aktulizace
 	  - Obchodní model ve formátu Canvas
+	  - Úvodní komunikace se zákazníkem
 	- Sprint 1
 	  - Integrace, validace a zajištění kvality prop User Stories pro Relese 1
 	  - Seznámení s posudky
+	  - ScrumDesk, aktulizace
+	  - GitHub, aktulizace
+	  - Průbežná komuinkace se zákazníkem
+	  - Nabídnutí článků
+	  - Seznámení s posudky
 Definintion of Done
 	- Sprint 0
-		- Tým vytvoření
+	  - Tým vytvoření
+	  - Úvodní validace úkolů
