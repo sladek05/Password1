@@ -1,1 +1,14 @@
+Definition of Done(DoD)
+  -Implementovaný kód podle User Story
+   -Automaticky otestováno 
+   -Zkontrolováno a otestováno jiným èlenem týmu 
+   -Dokumentace
+   -Nahráno a spuštìno na test serveru
+   -Akceptováno Product Ownerem
 
+Definition of Ready (DoR)
+   -Projekt je sestaven bez chyb 
+   -Úspìšné provedení testù
+   -Projekt nasazen v testovacím prostøedí 
+   -Upravení projektu podle vlastníka (zadavatele)
+   -Aktualizace dokumentace
