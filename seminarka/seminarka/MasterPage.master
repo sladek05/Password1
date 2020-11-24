@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background: gold;">
+    <form id="form1" runat="server">
+    <div style="text-align:center;">            
+        <h1 style="margin-left: auto; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-style:inherit; color: darkred; font-size:60px;">
+        <!--     <asp:Image ID="Image1" runat="server" Height="116px" ImageUrl="~/Image/car1.png" Width="175px" />
+&nbsp;&nbsp;&nbsp; Evidence automobilů&nbsp;&nbsp;&nbsp;
+            <asp:Image ID="Image2" runat="server" Height="116px" ImageUrl="~/Image/car2.png" Width="175px" /> -->
+        </h1>
+    </div>    
+        <hr style="width: 95%;" />
+    <br />    
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+        <hr style="width: 95%;" />
+    <div style="text-align: center;">
+        <h2>Casopis LogosPolytechnos © 2020 Passoword1*</h2>
+    </div>
+    </form>
+
+</body>
+</html>
